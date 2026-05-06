@@ -70,9 +70,12 @@ This view highlights the core metrics behind the routine. It presents category-l
 ![Metrics Overview](assets/metrics.png)
 
 ### 5. Rhythm Curves
-These trend lines show how focus and consistency evolve over time. They make it easy to identify strong streaks, unstable days, and shifts in routine quality.
+This analytics layer visualizes behavioral momentum across the routine timeline. It tracks category-wise time allocation, daily productivity variation, and focus score movement to reveal hidden performance patterns and routine stability.
+
+![Analytics Trends](assets/analytics-trends.png)
 
 ![Productivity Trends](assets/trends.png)
+
 
 ### 6. Productivity Engine
 This is the analytical core of the app. It combines the custom productivity score with deeper routine interpretation, turning raw logs into a behavioral profile rather than just a set of charts.
