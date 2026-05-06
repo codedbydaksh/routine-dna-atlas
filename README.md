@@ -1,4 +1,12 @@
-# Routine DNA Atlas
+<p align="center">
+  <img src="banner.png" alt="Routine DNA Atlas Banner"/>
+</p>
+
+<h1 align="center">Routine DNA Atlas</h1>
+
+<p align="center">
+Behavior Analytics • Productivity Intelligence • Focus Tracking
+</p>
 
 Routine DNA Atlas is a Python-powered routine intelligence dashboard that turns daily activity logs into structured insights. It helps users understand how their time is distributed, where focus is strongest, where distraction appears, and how consistent their routine really is.
 
