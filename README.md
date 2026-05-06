@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Routine DNA Atlas Banner"/>
+  <img src="Banner.png" alt="Routine DNA Atlas Banner"/>
 </p>
 
 <h1 align="center">Routine DNA Atlas</h1>
