@@ -82,10 +82,20 @@ This is the analytical core of the app. It combines the custom productivity scor
 
 ![Productivity Score](assets/productivity%20score.png)
 
-### 7. Anomaly Radar
-This section flags unusual routine days and generates practical recommendations from the observed patterns. It helps reveal friction points such as excessive phone usage, weak deep-work blocks, or unstable time distribution.
+### 7. Anomaly Detection & Recommendation Engine
 
-![Recommendations](assets/Screenshot%202026-05-07%20at%202.38.59%E2%80%AFAM%281%29.png)
+This subsystem continuously evaluates behavioral irregularities across the productivity timeline and identifies patterns that may negatively impact routine stability.
+
+The engine combines anomaly detection logic with insight generation to surface:
+- Productivity inconsistencies
+- Deep-work disruptions
+- High-distraction periods
+- Behavioral efficiency drops
+- Actionable optimization recommendations
+
+The recommendation layer transforms analytical observations into interpretable productivity guidance, enabling users to refine routine structure and improve consistency over time.
+
+![Anomaly Radar](assets/anomaly-radar.png)
 
 ### 8. Export Hub
 The final section presents the computed summaries in a table-first format. It includes category summaries, daily hours, focus scores, and consistency scores, making the results easy to reuse or export.
