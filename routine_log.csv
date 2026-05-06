@@ -1,0 +1,60 @@
+date,start_time,end_time,activity,category,energy,mood,location,notes
+
+2025-02-02,07:00,09:00,Study,Deep Work,8,7,Home,DSA practice
+2025-02-02,09:00,09:30,Break,Rest,5,6,Home,Tea break
+2025-02-02,10:00,11:30,Study,Deep Work,9,8,Home,Coding
+2025-02-02,14:00,15:00,Phone,Rest,4,5,Home,Scrolling
+2025-02-02,17:00,18:00,Exercise,Health,7,8,Outside,Running
+
+2025-02-03,06:30,08:30,Study,Deep Work,9,8,Home,Leetcode
+2025-02-03,08:30,09:00,Break,Rest,6,6,Home,Breakfast
+2025-02-03,10:00,11:00,Study,Deep Work,8,7,Home,Revision
+2025-02-03,13:00,14:00,Phone,Rest,4,5,Home,YouTube
+2025-02-03,18:00,19:00,Exercise,Health,8,8,Outside,Gym
+
+2025-02-04,07:00,08:30,Study,Deep Work,8,7,Home,Math
+2025-02-04,08:30,09:00,Break,Rest,5,6,Home,Snacks
+2025-02-04,10:00,12:00,Study,Deep Work,9,8,Home,Project work
+2025-02-04,14:00,15:30,Phone,Rest,3,5,Home,Instagram
+2025-02-04,18:00,19:00,Exercise,Health,7,7,Outside,Walk
+
+2025-02-05,06:45,08:15,Study,Deep Work,8,7,Home,Python
+2025-02-05,08:15,09:00,Break,Rest,6,6,Home,Breakfast
+2025-02-05,10:30,12:00,Study,Deep Work,9,8,Home,DSA
+2025-02-05,15:00,16:00,Phone,Rest,4,5,Home,Scrolling
+2025-02-05,18:30,19:30,Exercise,Health,7,8,Outside,Gym
+
+2025-02-06,07:00,09:00,Study,Deep Work,9,8,Home,Coding
+2025-02-06,09:00,09:30,Break,Rest,5,6,Home,Tea
+2025-02-06,11:00,12:30,Study,Deep Work,8,7,Home,Revision
+2025-02-06,14:30,15:30,Phone,Rest,4,5,Home,YouTube
+2025-02-06,18:00,19:00,Exercise,Health,8,8,Outside,Run
+
+2025-02-07,06:30,08:00,Study,Deep Work,8,7,Home,Practice
+2025-02-07,08:00,08:45,Break,Rest,6,6,Home,Breakfast
+2025-02-07,10:00,11:30,Study,Deep Work,9,8,Home,Project
+2025-02-07,13:00,14:00,Phone,Rest,3,5,Home,Instagram
+2025-02-07,17:30,18:30,Exercise,Health,7,7,Outside,Walk
+
+2025-02-08,07:00,08:30,Study,Deep Work,8,7,Home,DSA
+2025-02-08,08:30,09:00,Break,Rest,5,6,Home,Tea
+2025-02-08,10:00,12:00,Study,Deep Work,9,8,Home,Coding
+2025-02-08,14:00,15:00,Phone,Rest,4,5,Home,Scrolling
+2025-02-08,18:00,19:00,Exercise,Health,8,8,Outside,Gym
+
+2025-02-09,08:00,09:30,Study,Deep Work,7,7,Home,Light study
+2025-02-09,09:30,10:30,Phone,Rest,4,5,Home,Reels
+2025-02-09,11:00,12:00,Study,Deep Work,8,7,Home,Revision
+2025-02-09,16:00,17:00,Exercise,Health,7,8,Outside,Run
+
+2025-02-10,07:00,09:00,Study,Deep Work,9,8,Home,Coding
+2025-02-10,09:00,09:30,Break,Rest,6,6,Home,Breakfast
+2025-02-10,10:30,12:00,Study,Deep Work,9,8,Home,DSA
+2025-02-10,14:00,15:30,Phone,Rest,3,5,Home,Instagram
+2025-02-10,18:00,19:00,Exercise,Health,8,8,Outside,Gym
+
+2025-02-11,06:30,08:00,Study,Deep Work,8,7,Home,Math
+2025-02-11,08:00,08:45,Break,Rest,6,6,Home,Breakfast
+2025-02-11,10:00,11:30,Study,Deep Work,9,8,Home,Coding
+2025-02-11,13:00,14:00,Phone,Rest,4,5,Home,YouTube
+2025-02-11,18:00,19:00,Exercise,Health,7,7,Outside,Walk
