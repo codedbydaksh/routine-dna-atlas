@@ -45,33 +45,49 @@ That makes it useful for students, self-trackers, productivity enthusiasts, and 
 
 ---
 
-## Feature Walkthrough
+## Visual Feature Tour
 
-Routine DNA Atlas is structured as an end-to-end routine intelligence system. Each section of the dashboard represents a different layer of analysis, moving from raw input to actionable insight.
+Routine DNA Atlas is structured like an analytics workflow, not a static dashboard. Each screen reveals a different layer of the routine intelligence pipeline — from raw activity logs to interpreted insights and export-ready summaries.
 
-### 1. Dashboard Overview
-The dashboard opens with a high-level summary of the routine dataset. It surfaces the most important metrics immediately, including total days logged, total hours tracked, top category by time, and overall consistency. This gives the user an instant read on routine quality without needing to inspect the raw data first.
+### 1. Command Center
+The landing view gives a high-level snapshot of the routine dataset. It surfaces the most important metrics immediately: total days logged, total hours tracked, the leading category by time, and overall consistency.
 
-### 2. Controls Panel
-The controls panel turns the dashboard into an interactive analysis tool. Users can filter the dataset by date range, category, activity, energy level, and mood, while also tuning the scoring weights for deep work, rest, phone usage, exercise, and sleep. This makes the analysis adaptive rather than fixed.
+![Dashboard Overview](assets/dashboard.png)
 
-### 3. Data Preview
-The data preview section shows the filtered dataset after validation and cleaning. It helps confirm that the uploaded CSV has been parsed correctly and that the analysis is being performed on structured, reliable data. This section is especially useful for verifying input quality before interpreting results.
+### 2. Control Lab
+This panel turns the dashboard into an interactive analysis tool. Users can filter by date, category, activity, energy, and mood, while also tuning the scoring weights that shape the interpretation of the data.
 
-### 4. Metrics Overview
-The metrics section summarizes the core quantitative signals behind the routine. It visualizes category-wise time distribution and daily activity volume, making it easier to identify imbalance, overloading, or underutilized time blocks. This layer acts as the numerical foundation of the dashboard.
+![Controls Panel](assets/controls.png)
 
-### 5. Productivity Trends
-The trends section focuses on how routine behavior changes over time. It visualizes the focus score and consistency score across days, helping users identify productive streaks, unstable periods, and shifts in daily rhythm. This is the section that reveals whether performance is steady or fluctuating.
+### 3. Data Lens
+This section shows the cleaned and filtered dataset after validation. It is the checkpoint that confirms the CSV has been parsed correctly and that the analysis is running on structured data.
 
-### 6. Productivity Intelligence
-This section represents the analytical core of the project. It combines the custom productivity score, routine classification, and heatmap visualization to transform raw logs into a behavioral interpretation. Instead of only reporting activity, it helps define the shape of the user’s routine.
+![Data Preview](assets/data%20preview.png)
 
-### 7. Recommendations and Anomaly Detection
-This part of the dashboard detects unusual patterns using anomaly logic and generates practical recommendations based on observed behavior. It can highlight overuse of phone time, low deep-work duration, routine instability, or other signals that may affect productivity. The goal is not just to observe behavior, but to improve it.
+### 4. Performance Signals
+This view highlights the core metrics behind the routine. It presents category-level time distribution and daily activity patterns so users can quickly spot imbalance, overload, or missing structure.
 
-### 8. Exported Tables
-The export section presents computed summaries in a structured tabular format. It includes category summaries, daily hours, focus scores, and daily consistency scores, making the results easy to reuse, download, or reference in further analysis.
+![Metrics Overview](assets/metrics.png)
+
+### 5. Rhythm Curves
+These trend lines show how focus and consistency evolve over time. They make it easy to identify strong streaks, unstable days, and shifts in routine quality.
+
+![Productivity Trends](assets/trends.png)
+
+### 6. Productivity Engine
+This is the analytical core of the app. It combines the custom productivity score with deeper routine interpretation, turning raw logs into a behavioral profile rather than just a set of charts.
+
+![Productivity Score](assets/productivity%20score.png)
+
+### 7. Anomaly Radar
+This section flags unusual routine days and generates practical recommendations from the observed patterns. It helps reveal friction points such as excessive phone usage, weak deep-work blocks, or unstable time distribution.
+
+![Recommendations](assets/Screenshot%202026-05-07%20at%202.38.59%E2%80%AFAM%281%29.png)
+
+### 8. Export Hub
+The final section presents the computed summaries in a table-first format. It includes category summaries, daily hours, focus scores, and consistency scores, making the results easy to reuse or export.
+
+![Exported Tables](assets/output%20tables1.png)
 
 ## How the Dashboard Works
 
